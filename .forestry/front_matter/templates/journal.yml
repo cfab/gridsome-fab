@@ -34,4 +34,5 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
+- journal/un-titre-pour-voir-ce-qu-il-se-passe-quand-5.md
 - journal/macos-development-environment.md
